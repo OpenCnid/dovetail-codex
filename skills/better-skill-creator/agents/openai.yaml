@@ -1,0 +1,6 @@
+interface:
+  display_name: "Better Skill Creator"
+  short_description: "Create validated Codex-native skills"
+  default_prompt: "Use $better-skill-creator to create or improve this Codex skill."
+policy:
+  allow_implicit_invocation: true

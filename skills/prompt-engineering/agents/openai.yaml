@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prompt Engineering"
+  short_description: "Structure precise model-facing instructions"
+  default_prompt: "Use $prompt-engineering to improve this prompt for clarity and reliable execution."
+policy:
+  allow_implicit_invocation: true

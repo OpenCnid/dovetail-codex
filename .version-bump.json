@@ -1,0 +1,9 @@
+{
+  "_comment": "The Codex plugin manifest is the single package-version authority.",
+  "files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "field": "version"
+    }
+  ]
+}
