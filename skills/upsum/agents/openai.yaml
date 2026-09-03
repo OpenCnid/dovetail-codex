@@ -1,0 +1,6 @@
+interface:
+  display_name: "Upsum"
+  short_description: "Close a session with durable project memory"
+  default_prompt: "Use $upsum to close this work session and carry its state forward."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Self-Play"
+  short_description: "Test artifacts with independent Codex runs"
+  default_prompt: "Use $self-play to evaluate this artifact with clean-room cases."
+policy:
+  allow_implicit_invocation: true

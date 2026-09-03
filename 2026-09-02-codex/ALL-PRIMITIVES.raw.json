@@ -1,0 +1,7425 @@
+[
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Config_Layer_Precedence",
+  "v": [
+   0,
+   0,
+   7,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Trusted_Project_Config_Layers",
+  "v": [
+   0,
+   7,
+   4,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Named_Config_Profile",
+  "v": [
+   0,
+   0,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "One_Off_Config_Override",
+  "v": [
+   0,
+   0,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Default_Model_Config",
+  "v": [
+   4,
+   0,
+   2,
+   9,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Model_Reasoning_Effort_Config",
+  "v": [
+   3,
+   0,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Plan_Mode_Reasoning_Effort_Config",
+  "v": [
+   2,
+   0,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Personality_Config",
+  "v": [
+   0,
+   9,
+   1,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "TUI_Keymap_Config",
+  "v": [
+   0,
+   0,
+   3,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Shell_Environment_Policy",
+  "v": [
+   0,
+   2,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "CODEX_HOME_Environment_Variable",
+  "v": [
+   0,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "CODEX_SQLITE_HOME_Environment_Variable",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "CODEX_CA_CERTIFICATE_Environment_Variable",
+  "v": [
+   0,
+   0,
+   1,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "RUST_LOG_Environment_Variable",
+  "v": [
+   0,
+   0,
+   2,
+   4,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Prompt_Editor_Environment_Selection",
+  "v": [
+   0,
+   0,
+   4,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Interactive_TUI_Command",
+  "v": [
+   1,
+   2,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Working_Directory_Flag",
+  "v": [
+   0,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Initial_Image_Attachment_Flag",
+  "v": [
+   2,
+   0,
+   2,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Live_Web_Search_Flag",
+  "v": [
+   1,
+   0,
+   2,
+   9,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Strict_Config_Validation",
+  "v": [
+   0,
+   0,
+   7,
+   1,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Model_Override_Flag",
+  "v": [
+   4,
+   0,
+   2,
+   9,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "OSS_Provider_Selection",
+  "v": [
+   2,
+   0,
+   3,
+   9,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Doctor_Diagnostics_Command",
+  "v": [
+   1,
+   0,
+   4,
+   5,
+   7
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Feature_Flag_Command",
+  "v": [
+   1,
+   1,
+   6,
+   5,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Session_Resume_Command",
+  "v": [
+   0,
+   1,
+   5,
+   7,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Session_Fork_Command",
+  "v": [
+   0,
+   0,
+   9,
+   5,
+   3
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Local_Shell_Command_Prefix",
+  "v": [
+   1,
+   3,
+   3,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Queued_Followup_Shortcut",
+  "v": [
+   0,
+   5,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Active_Turn_Instruction_Injection",
+  "v": [
+   0,
+   9,
+   6,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Prior_Message_Edit_Fork_Shortcut",
+  "v": [
+   0,
+   2,
+   9,
+   3,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Slash_Command_Popup",
+  "v": [
+   0,
+   1,
+   4,
+   7,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Model_Slash_Command",
+  "v": [
+   4,
+   0,
+   5,
+   9,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Fast_Mode_Slash_Command",
+  "v": [
+   1,
+   0,
+   5,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Personality_Slash_Command",
+  "v": [
+   0,
+   10,
+   2,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Plan_Mode_Slash_Command",
+  "v": [
+   1,
+   2,
+   10,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Chat_Compaction_Slash_Command",
+  "v": [
+   0,
+   0,
+   7,
+   5,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Session_Status_Slash_Command",
+  "v": [
+   0,
+   2,
+   3,
+   5,
+   7
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Config_Diagnostics_Slash_Command",
+  "v": [
+   0,
+   2,
+   4,
+   4,
+   9
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Status_Line_Slash_Command",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Keymap_Slash_Command",
+  "v": [
+   0,
+   0,
+   5,
+   5,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "New_Chat_Slash_Command",
+  "v": [
+   0,
+   1,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D1-cli-and-config-docs.md",
+  "name": "Side_Chat_Slash_Command",
+  "v": [
+   0,
+   2,
+   10,
+   3,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Sandbox_Mode_Control",
+  "v": [
+   0,
+   9,
+   4,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Approval_Policy",
+  "v": [
+   0,
+   10,
+   5,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Granular_Approval_Policy",
+  "v": [
+   0,
+   10,
+   6,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Automatic_Approval_Reviewer",
+  "v": [
+   1,
+   10,
+   8,
+   1,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "No_Prompt_Sandboxed_Autonomy",
+  "v": [
+   0,
+   10,
+   6,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Dangerous_Full_Access_Bypass",
+  "v": [
+   0,
+   10,
+   7,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Permission_Profile_System",
+  "v": [
+   0,
+   9,
+   4,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Permission_Profile_Legacy_Exclusion",
+  "v": [
+   0,
+   8,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Filesystem_Access_Rule_Precedence",
+  "v": [
+   0,
+   9,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Filesystem_Deny_Read_Globs",
+  "v": [
+   0,
+   9,
+   3,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Command_Network_Access_Toggle",
+  "v": [
+   0,
+   9,
+   2,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Command_Network_Proxy_Enforcement",
+  "v": [
+   0,
+   8,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Network_Domain_Pattern_Rules",
+  "v": [
+   0,
+   9,
+   4,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Local_Private_Network_Guard",
+  "v": [
+   0,
+   9,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Protected_Workspace_Control_Paths",
+  "v": [
+   0,
+   9,
+   3,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Command_Network_Proxy_Scope",
+  "v": [
+   0,
+   8,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Cloud_Setup_Agent_Phase_Boundary",
+  "v": [
+   0,
+   8,
+   6,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Cross_Platform_Sandbox_Enforcement",
+  "v": [
+   0,
+   8,
+   4,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Native_Windows_Sandbox_Implementation",
+  "v": [
+   0,
+   9,
+   5,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Prefix_Command_Rule",
+  "v": [
+   0,
+   10,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Command_Rule_Decision_Precedence",
+  "v": [
+   0,
+   10,
+   6,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Shell_Compound_Command_Decomposition",
+  "v": [
+   1,
+   9,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Restrictive_Command_Rules",
+  "v": [
+   0,
+   10,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Source_Layering",
+  "v": [
+   7,
+   4,
+   8,
+   4,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Hash_Trust_Review",
+  "v": [
+   0,
+   10,
+   7,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Trust_Bypass",
+  "v": [
+   0,
+   10,
+   6,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Matcher_Filter",
+  "v": [
+   3,
+   3,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Command_Handler",
+  "v": [
+   8,
+   5,
+   8,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Hook_Concurrent_Matching_Handlers",
+  "v": [
+   1,
+   3,
+   9,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "PreToolUse_Control_Hook",
+  "v": [
+   7,
+   10,
+   9,
+   5,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "PermissionRequest_Decision_Hook",
+  "v": [
+   6,
+   10,
+   9,
+   2,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "PostToolUse_Feedback_Hook",
+  "v": [
+   6,
+   6,
+   8,
+   4,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "UserPromptSubmit_Guard_Hook",
+  "v": [
+   6,
+   10,
+   8,
+   1,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "SessionStart_Context_Hook",
+  "v": [
+   5,
+   5,
+   7,
+   2,
+   8
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "SessionEnd_Hook",
+  "v": [
+   6,
+   1,
+   7,
+   6,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "PreCompact_Gate_Hook",
+  "v": [
+   4,
+   7,
+   8,
+   1,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "PostCompact_Gate_Hook",
+  "v": [
+   4,
+   5,
+   8,
+   1,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Stop_Continuation_Hook",
+  "v": [
+   5,
+   9,
+   9,
+   1,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Requirements_Enforced_Constraints",
+  "v": [
+   0,
+   10,
+   8,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Requirements_Layer_Precedence",
+  "v": [
+   0,
+   9,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Cloud_Managed_Requirements_Fail_Closed",
+  "v": [
+   0,
+   10,
+   8,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Permission_Profile_Allowlist",
+  "v": [
+   0,
+   10,
+   6,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Network_Requirements",
+  "v": [
+   0,
+   10,
+   7,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Reviewer_Policy",
+  "v": [
+   1,
+   10,
+   8,
+   1,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Deny_Read_Requirement",
+  "v": [
+   0,
+   10,
+   6,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D2-hooks-and-security-docs.md",
+  "name": "Managed_Hook_Enforcement",
+  "v": [
+   7,
+   10,
+   9,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Parallel_Subagent_Workflow",
+  "v": [
+   2,
+   0,
+   10,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Context_Isolation",
+  "v": [
+   0,
+   0,
+   9,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Result_Consolidation",
+  "v": [
+   2,
+   0,
+   9,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Thread_Inspection",
+  "v": [
+   0,
+   1,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Lifecycle_Control",
+  "v": [
+   0,
+   6,
+   8,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Agent_Thread_Switch_Command",
+  "v": [
+   0,
+   1,
+   7,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Permission_Inheritance",
+  "v": [
+   0,
+   10,
+   4,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Multi_Agent_Enable_Config",
+  "v": [
+   0,
+   4,
+   9,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Spawned_Agent_Thread_Limit",
+  "v": [
+   0,
+   3,
+   9,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Model_Default",
+  "v": [
+   3,
+   0,
+   6,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Subagent_Reasoning_Default",
+  "v": [
+   3,
+   0,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Custom_Agent_File",
+  "v": [
+   6,
+   4,
+   8,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Custom_Agent_Scope",
+  "v": [
+   0,
+   3,
+   7,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Custom_Agent_Config_Override",
+  "v": [
+   6,
+   5,
+   8,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Project_Shared_Context",
+  "v": [
+   0,
+   0,
+   4,
+   9,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Chat_Transcript_Isolation",
+  "v": [
+   0,
+   0,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Multi_Folder_Local_Project",
+  "v": [
+   0,
+   0,
+   4,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Primary_Project_Folder",
+  "v": [
+   0,
+   0,
+   5,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Chat_Fork",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Ephemeral_Side_Chat",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Worktree_Chat_Isolation",
+  "v": [
+   1,
+   0,
+   10,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Worktree_Starting_Branch",
+  "v": [
+   0,
+   2,
+   6,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Worktree_Local_Handoff",
+  "v": [
+   1,
+   3,
+   9,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Permanent_Worktree_Project",
+  "v": [
+   0,
+   2,
+   8,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Local_Environment_Setup_Script",
+  "v": [
+   5,
+   0,
+   5,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Remote_Chat_Control",
+  "v": [
+   2,
+   7,
+   6,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "SSH_Remote_Project_Execution",
+  "v": [
+   3,
+   2,
+   4,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Cross_Host_Chat_Handoff",
+  "v": [
+   1,
+   5,
+   9,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Personality_Default_Setting",
+  "v": [
+   0,
+   10,
+   0,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Personality_Thread_Override",
+  "v": [
+   0,
+   10,
+   1,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Plan_Mode",
+  "v": [
+   1,
+   4,
+   10,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Persisted_Goal",
+  "v": [
+   1,
+   2,
+   10,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Goal_Lifecycle_Control",
+  "v": [
+   0,
+   8,
+   9,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Parallel_Goal_Context_Isolation",
+  "v": [
+   1,
+   0,
+   10,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D3-subagents-and-teams-docs.md",
+  "name": "Goal_Permission_Boundary",
+  "v": [
+   0,
+   10,
+   5,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "AGENTS_Global_File_Precedence",
+  "v": [
+   2,
+   6,
+   7,
+   0,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "AGENTS_Project_Path_Scoping",
+  "v": [
+   2,
+   4,
+   8,
+   1,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "AGENTS_Root_To_CWD_Merge_Order",
+  "v": [
+   1,
+   7,
+   8,
+   0,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "AGENTS_Context_Byte_Limit",
+  "v": [
+   0,
+   1,
+   3,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "AGENTS_Run_Start_Rebuild",
+  "v": [
+   0,
+   1,
+   6,
+   2,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Custom_Prompt_Explicit_Slash_Command",
+  "v": [
+   5,
+   0,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Custom_Prompt_Command_Metadata",
+  "v": [
+   1,
+   1,
+   3,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Custom_Prompt_Argument_Expansion",
+  "v": [
+   4,
+   0,
+   5,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Package_Format",
+  "v": [
+   9,
+   1,
+   6,
+   2,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Progressive_Disclosure",
+  "v": [
+   7,
+   0,
+   7,
+   6,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Initial_List_Context_Budget",
+  "v": [
+   1,
+   0,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Explicit_Skill_Invocation",
+  "v": [
+   8,
+   6,
+   3,
+   2,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Implicit_Description_Matching",
+  "v": [
+   8,
+   3,
+   7,
+   2,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Repo_Path_Discovery",
+  "v": [
+   6,
+   1,
+   6,
+   5,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Local_Skill_Discovery_Scopes",
+  "v": [
+   7,
+   4,
+   5,
+   6,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Implicit_Invocation_Policy",
+  "v": [
+   2,
+   9,
+   5,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Local_Enable_Override",
+  "v": [
+   1,
+   8,
+   3,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Skill_Supporting_Resource_Layout",
+  "v": [
+   7,
+   0,
+   7,
+   7,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Package_Manifest",
+  "v": [
+   3,
+   0,
+   5,
+   7,
+   1
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Skills_Contribution_Path",
+  "v": [
+   9,
+   1,
+   6,
+   6,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Install_Surface_Metadata",
+  "v": [
+   1,
+   2,
+   2,
+   5,
+   1
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Manifest_Relative_Path_Rules",
+  "v": [
+   0,
+   0,
+   4,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Universal_Plugin_Directory",
+  "v": [
+   5,
+   0,
+   2,
+   9,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Local_Plugin_Marketplace_Catalog",
+  "v": [
+   4,
+   3,
+   6,
+   8,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Marketplace_Entry_Install_Policy",
+  "v": [
+   1,
+   9,
+   4,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Marketplace_Source_Commands",
+  "v": [
+   2,
+   4,
+   5,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Marketplace_Installed_Copy_Cache",
+  "v": [
+   1,
+   0,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Codex_CLI_Plugin_Browser",
+  "v": [
+   4,
+   8,
+   3,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_New_Session_Activation",
+  "v": [
+   4,
+   0,
+   6,
+   5,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Uninstall_Bundle_Scope",
+  "v": [
+   2,
+   8,
+   3,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Plugin_Requirements_Kill_Switch",
+  "v": [
+   1,
+   10,
+   4,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D4-skills-commands-memory-plugins-docs.md",
+  "name": "Marketplace_Allowed_Source_Requirements",
+  "v": [
+   1,
+   10,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Host_Configuration_Sharing",
+  "v": [
+   1,
+   0,
+   4,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_STDIO_Transport_Config",
+  "v": [
+   2,
+   0,
+   1,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Streamable_HTTP_Server_Transport",
+  "v": [
+   2,
+   0,
+   1,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Tool_Exposure",
+  "v": [
+   6,
+   0,
+   0,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Resource_Exposure",
+  "v": [
+   1,
+   0,
+   0,
+   8,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Server_Initialization_Instructions",
+  "v": [
+   2,
+   1,
+   6,
+   0,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_HTTP_Authentication_Chain",
+  "v": [
+   0,
+   8,
+   2,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Remote_Stdio_Placement",
+  "v": [
+   1,
+   0,
+   7,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Tool_Filter_Policy",
+  "v": [
+   0,
+   8,
+   2,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Tool_Approval_Policy",
+  "v": [
+   0,
+   10,
+   3,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "MCP_Elicitation_Prompt_Gate",
+  "v": [
+   0,
+   10,
+   4,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Connector_MCP_Backend",
+  "v": [
+   5,
+   0,
+   1,
+   9,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Connector_Service_Authentication",
+  "v": [
+   0,
+   9,
+   1,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "App_Tool_Governance",
+  "v": [
+   0,
+   10,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "IDE_Automatic_Open_File_Context",
+  "v": [
+   1,
+   0,
+   3,
+   5,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "IDE_Settings_Layer_Separation",
+  "v": [
+   0,
+   1,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "IDE_Run_Location_Commands",
+  "v": [
+   1,
+   1,
+   9,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Desktop_Worktree_Setup_Script",
+  "v": [
+   4,
+   0,
+   7,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Desktop_Project_Action",
+  "v": [
+   5,
+   0,
+   4,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Desktop_Git_Controls",
+  "v": [
+   6,
+   3,
+   4,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Built_In_Browser_Isolated_Profile",
+  "v": [
+   6,
+   1,
+   3,
+   9,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Browser_Extension_Existing_Session_Control",
+  "v": [
+   7,
+   2,
+   2,
+   10,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Browser_Website_Permission_Gate",
+  "v": [
+   0,
+   10,
+   3,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Computer_Use_GUI_Control",
+  "v": [
+   9,
+   2,
+   3,
+   10,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Computer_Use_App_Approval",
+  "v": [
+   0,
+   10,
+   3,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Windows_Computer_Use_Foreground",
+  "v": [
+   1,
+   7,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Cloud_Container_Repository_Checkout",
+  "v": [
+   5,
+   0,
+   8,
+   9,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Cloud_Setup_Script",
+  "v": [
+   4,
+   0,
+   8,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Cloud_Setup_Only_Secrets",
+  "v": [
+   0,
+   9,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Agent_Internet_Access_Mode",
+  "v": [
+   1,
+   9,
+   5,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Cloud_Outbound_Proxy",
+  "v": [
+   0,
+   4,
+   6,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Device_Remote_Control",
+  "v": [
+   5,
+   5,
+   6,
+   9,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Remote_Host_Capability_Inheritance",
+  "v": [
+   3,
+   3,
+   6,
+   10,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "SSH_Remote_Project_Execution",
+  "v": [
+   6,
+   2,
+   7,
+   10,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Cross_Host_Chat_Handoff",
+  "v": [
+   3,
+   2,
+   9,
+   8,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitHub_PR_Comment_Review",
+  "v": [
+   7,
+   2,
+   7,
+   8,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitHub_Automatic_PR_Review",
+  "v": [
+   7,
+   2,
+   9,
+   8,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitHub_Comment_Cloud_Task",
+  "v": [
+   8,
+   2,
+   8,
+   9,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitLab_MR_Event_Integration",
+  "v": [
+   6,
+   4,
+   9,
+   8,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitLab_Service_Account_Connector",
+  "v": [
+   0,
+   10,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Linear_Issue_Delegation",
+  "v": [
+   7,
+   3,
+   9,
+   8,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Linear_Local_MCP_Connection",
+  "v": [
+   5,
+   5,
+   2,
+   9,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Slack_Thread_Delegation",
+  "v": [
+   7,
+   4,
+   9,
+   8,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "Codex_GitHub_Action_Run",
+  "v": [
+   8,
+   2,
+   10,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitHub_Action_Privilege_Strategy",
+  "v": [
+   0,
+   10,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D5-mcp-and-integrations-docs.md",
+  "name": "GitHub_Action_CLI_Version_Pin",
+  "v": [
+   0,
+   0,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Deep_Client_Interface",
+  "v": [
+   3,
+   4,
+   3,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Transport_Selection",
+  "v": [
+   0,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_WebSocket_Authentication",
+  "v": [
+   0,
+   9,
+   1,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Overload_Backpressure",
+  "v": [
+   0,
+   0,
+   5,
+   2,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_JSON_RPC_Message_Model",
+  "v": [
+   1,
+   0,
+   3,
+   7,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Version_Matched_Schema_Generation",
+  "v": [
+   4,
+   0,
+   2,
+   5,
+   7
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Initialization_Handshake",
+  "v": [
+   0,
+   3,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Client_Capability_Negotiation",
+  "v": [
+   1,
+   3,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Experimental_API_Opt_In",
+  "v": [
+   0,
+   7,
+   3,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Model_Capability_Discovery",
+  "v": [
+   0,
+   1,
+   2,
+   5,
+   8
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Feature_Lifecycle_Discovery",
+  "v": [
+   0,
+   0,
+   2,
+   4,
+   8
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Thread_Start",
+  "v": [
+   2,
+   4,
+   6,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Thread_Resume",
+  "v": [
+   1,
+   2,
+   7,
+   5,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Thread_Fork",
+  "v": [
+   1,
+   0,
+   9,
+   4,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Read_Without_Resume",
+  "v": [
+   0,
+   0,
+   2,
+   6,
+   7
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Thread_History_Pagination",
+  "v": [
+   0,
+   0,
+   3,
+   6,
+   8
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Thread_Compaction",
+  "v": [
+   2,
+   0,
+   7,
+   3,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Turn_Start",
+  "v": [
+   7,
+   4,
+   6,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Turn_Structured_Output",
+  "v": [
+   7,
+   0,
+   4,
+   1,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Turn_Steering",
+  "v": [
+   1,
+   8,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Turn_Interruption",
+  "v": [
+   0,
+   9,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Sandboxed_Command_Execution",
+  "v": [
+   5,
+   6,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Item_Event_Stream",
+  "v": [
+   1,
+   1,
+   7,
+   7,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Approval_Handshake",
+  "v": [
+   0,
+   10,
+   7,
+   1,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "App_Server_Admin_Requirements_Read",
+  "v": [
+   0,
+   8,
+   3,
+   2,
+   7
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "TypeScript_Codex_SDK_Thread_Lifecycle",
+  "v": [
+   6,
+   0,
+   8,
+   8,
+   2
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Python_Codex_SDK_App_Server_Client",
+  "v": [
+   5,
+   0,
+   5,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Python_Codex_SDK_Sandbox_Presets",
+  "v": [
+   0,
+   9,
+   3,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Codex_GitHub_Action_Run",
+  "v": [
+   7,
+   4,
+   9,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "GitHub_Action_Privilege_Strategy",
+  "v": [
+   0,
+   10,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "GitHub_Action_Trigger_Allowlist",
+  "v": [
+   0,
+   10,
+   3,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "GitHub_Action_Final_Message_Output",
+  "v": [
+   3,
+   0,
+   7,
+   5,
+   3
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Codex_Exec_Noninteractive_Run",
+  "v": [
+   7,
+   1,
+   8,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Exec_Output_Channel_Separation",
+  "v": [
+   2,
+   0,
+   6,
+   3,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Exec_JSONL_Event_Output",
+  "v": [
+   4,
+   0,
+   7,
+   5,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Exec_Output_Schema",
+  "v": [
+   8,
+   0,
+   5,
+   1,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Exec_Session_Resume",
+  "v": [
+   2,
+   0,
+   8,
+   4,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Scheduled_Task_Background_Run",
+  "v": [
+   5,
+   2,
+   10,
+   6,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Standalone_Scheduled_Task_Run",
+  "v": [
+   1,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Existing_Chat_Scheduled_Task",
+  "v": [
+   1,
+   3,
+   9,
+   3,
+   8
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Scheduled_Task_Event_Trigger",
+  "v": [
+   3,
+   4,
+   10,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Scheduled_Task_Project_Execution_Mode",
+  "v": [
+   0,
+   3,
+   9,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Scheduled_Task_Unattended_Permission_Model",
+  "v": [
+   0,
+   10,
+   8,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Codex_MCP_Server_Deprecation",
+  "v": [
+   1,
+   0,
+   2,
+   4,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Codex_MCP_Conversation_Tools",
+  "v": [
+   6,
+   4,
+   8,
+   8,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Agents_SDK_MCP_Stdio_Integration",
+  "v": [
+   6,
+   0,
+   9,
+   8,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Agents_SDK_Handoff_Orchestration",
+  "v": [
+   5,
+   2,
+   10,
+   6,
+   3
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "D6-agent-sdk-docs.md",
+  "name": "Agents_SDK_Execution_Traces",
+  "v": [
+   1,
+   1,
+   6,
+   5,
+   8
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Desktop_Unified_Pinned_Threads",
+  "v": [
+   0,
+   0,
+   3,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Desktop_Setup_Import",
+  "v": [
+   2,
+   0,
+   6,
+   5,
+   3
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "CLI_Setup_Import",
+  "v": [
+   2,
+   0,
+   6,
+   4,
+   3
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Multi_Repository_Combined_Review",
+  "v": [
+   3,
+   0,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Desktop_Activity_View",
+  "v": [
+   0,
+   0,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Multi_Folder_Local_Project",
+  "v": [
+   1,
+   0,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Codex_Desktop_View_Migration",
+  "v": [
+   0,
+   0,
+   2,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "CLI_Task_Management_Tools",
+  "v": [
+   2,
+   1,
+   9,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "CLI_Task_Mentions",
+  "v": [
+   0,
+   1,
+   7,
+   5,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "CLI_Copy_Target_Picker",
+  "v": [
+   2,
+   0,
+   2,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "TUI_Permission_Mode_Cycling",
+  "v": [
+   0,
+   8,
+   3,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Plan_Mode_Composer_Nudge_Removal",
+  "v": [
+   0,
+   3,
+   3,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Codex_Agents_Dashboard",
+  "v": [
+   1,
+   0,
+   9,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "TUI_Working_Directory_Commands",
+  "v": [
+   1,
+   0,
+   4,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Codex_Queue_Command",
+  "v": [
+   0,
+   2,
+   8,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Codex_Doctor_Expanded_Diagnostics",
+  "v": [
+   3,
+   0,
+   3,
+   6,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Thread_Permission_Profile_Restoration",
+  "v": [
+   0,
+   9,
+   4,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Windows_Terminal_Inline_History_Scrollback",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Untrusted_Approval_Policy_Retirement",
+  "v": [
+   0,
+   9,
+   2,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Deprecated_MCP_Server_Warning",
+  "v": [
+   0,
+   4,
+   2,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "PowerShell_Fail_Closed_Command_Lowering",
+  "v": [
+   0,
+   8,
+   2,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "D7-release-recency.md",
+  "name": "Elevated_Windows_Sandbox_Setup_Activation_Fix",
+  "v": [
+   0,
+   7,
+   2,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I0-orchestrator-only.md",
+  "name": "Task_Create_Tool",
+  "v": [
+   1,
+   8,
+   9,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I0-orchestrator-only.md",
+  "name": "Task_Handoff_Tool",
+  "v": [
+   1,
+   8,
+   10,
+   10,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I0-orchestrator-only.md",
+  "name": "Usage_Reset_Credit_Redemption",
+  "v": [
+   0,
+   10,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I0-orchestrator-only.md",
+  "name": "Foreground_Codex_Screen_Context",
+  "v": [
+   2,
+   5,
+   3,
+   7,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I0-orchestrator-only.md",
+  "name": "Voice_Chat_Termination",
+  "v": [
+   0,
+   10,
+   4,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "PowerShell_Get_Content_Raw_File_Read",
+  "v": [
+   1,
+   0,
+   0,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Apply_Patch_Create_File",
+  "v": [
+   5,
+   0,
+   3,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Apply_Patch_Update_File",
+  "v": [
+   6,
+   0,
+   4,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Apply_Patch_Freeform_Input",
+  "v": [
+   1,
+   0,
+   6,
+   3,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Ripgrep_Content_Search",
+  "v": [
+   3,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Ripgrep_Path_Search",
+  "v": [
+   2,
+   0,
+   2,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "Ripgrep_Glob_Filter",
+  "v": [
+   2,
+   0,
+   4,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "View_Image_Local_File",
+  "v": [
+   3,
+   0,
+   0,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I1-file-and-search-tools.md",
+  "name": "View_Image_Detail_Control",
+  "v": [
+   1,
+   0,
+   3,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Commentary_Progress_Channel",
+  "v": [
+   0,
+   8,
+   5,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Final_Response_Channel",
+  "v": [
+   0,
+   8,
+   4,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Midturn_User_Steering",
+  "v": [
+   0,
+   9,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Blocking_Question_Final_Channel",
+  "v": [
+   0,
+   9,
+   5,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "GitHub_Flavored_Markdown_Response",
+  "v": [
+   1,
+   3,
+   1,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Local_File_Markdown_Link",
+  "v": [
+   0,
+   2,
+   2,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Local_Media_Markdown_Rendering",
+  "v": [
+   1,
+   3,
+   2,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Web_URL_Markdown_Link",
+  "v": [
+   0,
+   2,
+   1,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Text_Output_Helper",
+  "v": [
+   1,
+   0,
+   3,
+   6,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Image_Output_Helper",
+  "v": [
+   1,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Image_Detail_Override",
+  "v": [
+   0,
+   0,
+   5,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Audio_Output_Helper",
+  "v": [
+   1,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Generated_Image_Result_Helper",
+  "v": [
+   2,
+   1,
+   3,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Remote_Media_Preview_Routing",
+  "v": [
+   0,
+   2,
+   7,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Notify_Helper",
+  "v": [
+   0,
+   6,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Exec_Incremental_Yield_Helper",
+  "v": [
+   0,
+   3,
+   8,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Structured_User_Input_Tool",
+  "v": [
+   0,
+   10,
+   7,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Command_Approval_Question",
+  "v": [
+   0,
+   10,
+   5,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Reusable_Command_Approval_Prefix",
+  "v": [
+   0,
+   9,
+   7,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Delegated_Never_Approval_Policy",
+  "v": [
+   0,
+   10,
+   6,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_File_Panel",
+  "v": [
+   1,
+   2,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_Browser_Panel",
+  "v": [
+   0,
+   2,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_Terminal_Panel",
+  "v": [
+   1,
+   2,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_Review_Panel",
+  "v": [
+   1,
+   2,
+   6,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_Panel_Placement",
+  "v": [
+   0,
+   3,
+   5,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Cross_Thread_Panel_Delivery",
+  "v": [
+   0,
+   7,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Codex_Task_Navigation",
+  "v": [
+   0,
+   8,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Immutable_Task_Share_Link",
+  "v": [
+   0,
+   9,
+   2,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I10-output-and-interaction.md",
+  "name": "Inline_Code_Comment_Directive",
+  "v": [
+   1,
+   8,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Heartbeat_Automation_Create",
+  "v": [
+   2,
+   3,
+   9,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Cron_Automation_Create",
+  "v": [
+   2,
+   1,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_Update",
+  "v": [
+   1,
+   2,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_View",
+  "v": [
+   0,
+   0,
+   2,
+   6,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_Delete",
+  "v": [
+   0,
+   3,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_RRule_Schedule",
+  "v": [
+   0,
+   1,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_Run_State",
+  "v": [
+   0,
+   6,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Automation_Notification_Policy",
+  "v": [
+   0,
+   9,
+   3,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Existing_Chat_Scheduled_Task",
+  "v": [
+   2,
+   5,
+   9,
+   2,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Standalone_Scheduled_Task_Run",
+  "v": [
+   2,
+   2,
+   9,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Local_Scheduled_Task_Runtime",
+  "v": [
+   1,
+   0,
+   5,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Scheduled_Task_Unattended_Permissions",
+  "v": [
+   0,
+   10,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Scheduled_Task_Inbox",
+  "v": [
+   0,
+   6,
+   3,
+   6,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Thread_Followup_Message",
+  "v": [
+   1,
+   6,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Cli_Thread_Message_Queue",
+  "v": [
+   1,
+   5,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Desktop_Followup_Queue_Mode",
+  "v": [
+   0,
+   4,
+   8,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Multi_Thread_Wait",
+  "v": [
+   0,
+   2,
+   10,
+   3,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Handoff_Status_Long_Poll",
+  "v": [
+   0,
+   1,
+   8,
+   3,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Turn_Ended_Notification_Hook",
+  "v": [
+   0,
+   7,
+   4,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "App_Server_Daemon_Start",
+  "v": [
+   0,
+   0,
+   5,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "App_Server_Daemon_Restart",
+  "v": [
+   0,
+   0,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "App_Server_Daemon_Stop",
+  "v": [
+   0,
+   2,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "App_Server_Daemon_Remote_Control_Toggle",
+  "v": [
+   0,
+   8,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "App_Server_Daemon_Version_Query",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "Exec_Server_Stdin_Close_Lifetime",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I11-time-and-autonomy.md",
+  "name": "UTC_Offset_Time_Lookup",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   2
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Tool",
+  "v": [
+   4,
+   0,
+   2,
+   9,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Shell_Selector",
+  "v": [
+   1,
+   0,
+   4,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Working_Directory",
+  "v": [
+   0,
+   0,
+   4,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Login_Mode",
+  "v": [
+   0,
+   0,
+   4,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Pseudo_Terminal",
+  "v": [
+   2,
+   0,
+   6,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Early_Yield",
+  "v": [
+   0,
+   0,
+   8,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Output_Token_Cap",
+  "v": [
+   0,
+   0,
+   6,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Result_Envelope",
+  "v": [
+   0,
+   0,
+   6,
+   5,
+   1
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Write_Stdin_Input",
+  "v": [
+   3,
+   0,
+   6,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Write_Stdin_Poll",
+  "v": [
+   0,
+   0,
+   8,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Cell_Yield_Control",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Cell_Wait",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Command_Escalation_Request",
+  "v": [
+   0,
+   10,
+   5,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Delegated_Danger_Full_Access_Mode",
+  "v": [
+   0,
+   10,
+   2,
+   5,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Delegated_Never_Approval_Policy",
+  "v": [
+   0,
+   10,
+   7,
+   0,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Cli_Sandbox_Mode",
+  "v": [
+   0,
+   9,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Approval_Policy",
+  "v": [
+   0,
+   10,
+   6,
+   0,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Cli_Automatic_Approval_Review",
+  "v": [
+   0,
+   10,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Cli_Approval_And_Sandbox_Bypass",
+  "v": [
+   0,
+   10,
+   3,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Cli_Additional_Writable_Root",
+  "v": [
+   0,
+   8,
+   2,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Restricted_Token_Sandbox_Command",
+  "v": [
+   3,
+   8,
+   6,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Sandbox_State_Json",
+  "v": [
+   0,
+   8,
+   6,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Sandbox_State_Readable_Root",
+  "v": [
+   0,
+   8,
+   3,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Sandbox_State_Network_Disable",
+  "v": [
+   0,
+   9,
+   3,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Sandbox_Permission_Profile",
+  "v": [
+   0,
+   10,
+   5,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Noninteractive_Exec_Command",
+  "v": [
+   4,
+   0,
+   8,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Prompt_Stdin",
+  "v": [
+   2,
+   0,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_JSONL_Event_Output",
+  "v": [
+   1,
+   0,
+   7,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Last_Message_File",
+  "v": [
+   1,
+   0,
+   5,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Response_Schema",
+  "v": [
+   2,
+   0,
+   8,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Doctor_Diagnostics_Command",
+  "v": [
+   6,
+   0,
+   5,
+   5,
+   3
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Standalone_Exec_Server",
+  "v": [
+   4,
+   0,
+   7,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Server_Concurrency_Limit",
+  "v": [
+   0,
+   0,
+   9,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Server_Transport",
+  "v": [
+   0,
+   0,
+   6,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I2-execution-and-sandbox.md",
+  "name": "Exec_Server_Stdin_Close_Lifetime",
+  "v": [
+   0,
+   0,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Spawn_Tool",
+  "v": [
+   0,
+   0,
+   9,
+   6,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Context_Fork_Control",
+  "v": [
+   0,
+   0,
+   8,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Model_Override_Control",
+  "v": [
+   4,
+   0,
+   5,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Reasoning_Effort_Override_Control",
+  "v": [
+   2,
+   0,
+   5,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Canonical_Task_Addressing",
+  "v": [
+   0,
+   0,
+   6,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Nested_Subagent_Spawning",
+  "v": [
+   0,
+   0,
+   9,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Shared_Filesystem",
+  "v": [
+   0,
+   0,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Concurrency_Cap",
+  "v": [
+   0,
+   0,
+   7,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Message_Tool",
+  "v": [
+   0,
+   0,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Followup_Tool",
+  "v": [
+   0,
+   4,
+   8,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Interrupt_Tool",
+  "v": [
+   0,
+   8,
+   5,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_Wait_Tool",
+  "v": [
+   0,
+   0,
+   6,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Subagent_List_Tool",
+  "v": [
+   0,
+   0,
+   5,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Task_Plan_Update_Tool",
+  "v": [
+   0,
+   0,
+   8,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Goal_Creation_Tool",
+  "v": [
+   0,
+   6,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Goal_Token_Budget",
+  "v": [
+   0,
+   4,
+   5,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Goal_Read_Tool",
+  "v": [
+   0,
+   0,
+   4,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Goal_State_Update_Tool",
+  "v": [
+   0,
+   7,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Multi_Agent_Feature_Flag",
+  "v": [
+   0,
+   6,
+   7,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I3-delegation-and-orchestration.md",
+  "name": "Goals_Feature_Flag",
+  "v": [
+   0,
+   6,
+   6,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Package_Directory",
+  "v": [
+   8,
+   0,
+   4,
+   4,
+   3
+  ],
+  "conf": "observed",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "SKILL_Frontmatter_Name",
+  "v": [
+   2,
+   0,
+   3,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "SKILL_Frontmatter_Description",
+  "v": [
+   4,
+   2,
+   7,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "SKILL_Markdown_Instruction_Body",
+  "v": [
+   9,
+   1,
+   8,
+   2,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Model_Visible_Skill_Catalog",
+  "v": [
+   4,
+   1,
+   5,
+   8,
+   2
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Current_Session_Skill_Source_Locators",
+  "v": [
+   3,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Catalog_Context_Budget",
+  "v": [
+   1,
+   0,
+   7,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Local_Skill_Discovery_Scopes",
+  "v": [
+   5,
+   0,
+   4,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Duplicate_Skill_Name_Selection",
+  "v": [
+   2,
+   3,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Explicit_Skill_Invocation",
+  "v": [
+   6,
+   8,
+   5,
+   3,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Implicit_Skill_Invocation",
+  "v": [
+   7,
+   3,
+   9,
+   3,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Per_Turn_Skill_Activation",
+  "v": [
+   2,
+   5,
+   8,
+   0,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "SKILL_Full_Read_Gate",
+  "v": [
+   5,
+   1,
+   10,
+   5,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Locator_Access_Dispatch",
+  "v": [
+   3,
+   0,
+   8,
+   9,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Relative_Path_Resolution",
+  "v": [
+   2,
+   0,
+   6,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Routed_Skill_Reference_Loading",
+  "v": [
+   5,
+   0,
+   9,
+   5,
+   8
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Script_Reuse",
+  "v": [
+   8,
+   0,
+   7,
+   6,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_Asset_Reuse",
+  "v": [
+   6,
+   0,
+   4,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "OpenAI_YAML_Implicit_Invocation_Policy",
+  "v": [
+   3,
+   8,
+   7,
+   0,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skills_Config_Enabled_Flag",
+  "v": [
+   2,
+   7,
+   4,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Skill_UI_Interface_Metadata",
+  "v": [
+   1,
+   5,
+   1,
+   3,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I4-skills-system.md",
+  "name": "Missing_Skill_Fallback",
+  "v": [
+   4,
+   6,
+   8,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Catalog_List_Command",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   4
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_List_Command",
+  "v": [
+   0,
+   0,
+   1,
+   5,
+   3
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Add_Command",
+  "v": [
+   3,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Remove_Command",
+  "v": [
+   0,
+   1,
+   1,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Add_Command",
+  "v": [
+   1,
+   0,
+   3,
+   8,
+   3
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Upgrade_Command",
+  "v": [
+   0,
+   0,
+   2,
+   6,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Remove_Command",
+  "v": [
+   0,
+   1,
+   1,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Manifest_Catalog",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   6
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Installation_Policy",
+  "v": [
+   0,
+   7,
+   3,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Marketplace_Authentication_Policy",
+  "v": [
+   0,
+   8,
+   3,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Package_Manifest",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   4
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Skill_Root_Declaration",
+  "v": [
+   2,
+   0,
+   1,
+   7,
+   1
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_App_Manifest_Declaration",
+  "v": [
+   0,
+   0,
+   1,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Interface_Metadata",
+  "v": [
+   0,
+   3,
+   2,
+   3,
+   2
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Versioned_Plugin_Cache",
+  "v": [
+   0,
+   0,
+   2,
+   7,
+   1
+  ],
+  "conf": "observed",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Remote_Plugin_Origin_Marker",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   4
+  ],
+  "conf": "observed",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Remote_Plugin_Catalog_Cache",
+  "v": [
+   0,
+   0,
+   2,
+   6,
+   8
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Slash_Command_Definition",
+  "v": [
+   5,
+   0,
+   7,
+   2,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Plugin_Agent_Instruction_Definition",
+  "v": [
+   6,
+   3,
+   8,
+   1,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I5-commands-and-plugins.md",
+  "name": "Agent_Interface_Default_Prompt",
+  "v": [
+   1,
+   4,
+   4,
+   1,
+   2
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "User_Config_Toml_Layer",
+  "v": [
+   0,
+   1,
+   5,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Project_Config_Toml_Layer",
+  "v": [
+   0,
+   2,
+   7,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Command_Line_Config_Override",
+  "v": [
+   0,
+   1,
+   7,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Named_Config_Profile",
+  "v": [
+   0,
+   1,
+   7,
+   2,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Configuration_Precedence",
+  "v": [
+   0,
+   2,
+   8,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Strict_Config_Validation",
+  "v": [
+   0,
+   0,
+   6,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Project_Trust_Gate",
+  "v": [
+   0,
+   9,
+   4,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Approval_Policy",
+  "v": [
+   0,
+   10,
+   3,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Granular_Approval_Policy",
+  "v": [
+   0,
+   10,
+   5,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Approval_Reviewer_Routing",
+  "v": [
+   0,
+   10,
+   4,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Legacy_Sandbox_Mode",
+  "v": [
+   0,
+   8,
+   2,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Permission_Profile_Selection",
+  "v": [
+   0,
+   9,
+   4,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Permission_Profile_Legacy_Exclusion",
+  "v": [
+   0,
+   8,
+   7,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Permission_Profile_Inheritance",
+  "v": [
+   0,
+   7,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Permission_Profile_Filesystem_Policy",
+  "v": [
+   0,
+   9,
+   4,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Permission_Profile_Network_Policy",
+  "v": [
+   0,
+   9,
+   4,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Prefix_Command_Rule",
+  "v": [
+   0,
+   10,
+   6,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Rules_Layer_Discovery",
+  "v": [
+   0,
+   8,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Managed_Requirements_Composition",
+  "v": [
+   0,
+   10,
+   7,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Managed_Permission_Profile_Allowlist",
+  "v": [
+   0,
+   10,
+   3,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Managed_Feature_Constraints",
+  "v": [
+   1,
+   8,
+   5,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Managed_Config_Defaults",
+  "v": [
+   0,
+   9,
+   6,
+   1,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Global_AGENTS_Guidance",
+  "v": [
+   1,
+   3,
+   5,
+   0,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Project_AGENTS_Guidance_Chain",
+  "v": [
+   1,
+   2,
+   7,
+   0,
+   8
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "AGENTS_Override_And_Fallback_Order",
+  "v": [
+   0,
+   2,
+   8,
+   1,
+   5
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "AGENTS_Context_Byte_Limit",
+  "v": [
+   0,
+   0,
+   3,
+   5,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Source_Layering",
+  "v": [
+   2,
+   4,
+   8,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Definition_Trust",
+  "v": [
+   0,
+   10,
+   5,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Event_Registry",
+  "v": [
+   2,
+   3,
+   9,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Matcher_Filter",
+  "v": [
+   0,
+   2,
+   9,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Command_Handler",
+  "v": [
+   4,
+   4,
+   7,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_MCP_Tool_Handler",
+  "v": [
+   3,
+   4,
+   7,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Handler_Type_Gating",
+  "v": [
+   0,
+   3,
+   8,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "PreToolUse_Control_Hook",
+  "v": [
+   1,
+   10,
+   9,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "PermissionRequest_Decision_Hook",
+  "v": [
+   0,
+   10,
+   8,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "PostToolUse_Feedback_Hook",
+  "v": [
+   1,
+   5,
+   8,
+   0,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "SessionStart_Context_Hook",
+  "v": [
+   1,
+   3,
+   6,
+   1,
+   8
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "UserPromptSubmit_Guard_Hook",
+  "v": [
+   0,
+   10,
+   8,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "PreCompact_Gate_Hook",
+  "v": [
+   0,
+   4,
+   9,
+   0,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "PostCompact_Gate_Hook",
+  "v": [
+   0,
+   4,
+   9,
+   0,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Stop_Continuation_Hook",
+  "v": [
+   1,
+   7,
+   10,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Background_Hook_Mode",
+  "v": [
+   0,
+   2,
+   9,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hook_Additional_Context_Limit",
+  "v": [
+   0,
+   0,
+   3,
+   7,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Windows_Hook_Command_Override",
+  "v": [
+   1,
+   0,
+   6,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Managed_Hooks_Only",
+  "v": [
+   0,
+   10,
+   6,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Hooks_Feature_Gate",
+  "v": [
+   2,
+   8,
+   8,
+   0,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Feature_Flag_Inventory",
+  "v": [
+   0,
+   0,
+   3,
+   5,
+   2
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Per_Invocation_Feature_Override",
+  "v": [
+   2,
+   2,
+   7,
+   1,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I6-settings-permissions-hooks.md",
+  "name": "Guardian_Approval_Feature",
+  "v": [
+   0,
+   9,
+   5,
+   0,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Registration_Transport_Selector",
+  "v": [
+   1,
+   0,
+   2,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "once_at_install"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_STDIO_Server_Environment",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_HTTP_Bearer_Token_Source",
+  "v": [
+   0,
+   4,
+   1,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_OAuth_Client_Registration_Strategy",
+  "v": [
+   0,
+   5,
+   4,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_List_CLI",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   1
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Get_CLI",
+  "v": [
+   0,
+   0,
+   1,
+   6,
+   2
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Config_Table",
+  "v": [
+   0,
+   0,
+   3,
+   7,
+   0
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_STDIO_Transport_Config",
+  "v": [
+   0,
+   0,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_HTTP_Transport_Config",
+  "v": [
+   0,
+   2,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Startup_Policy",
+  "v": [
+   0,
+   1,
+   7,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Timeout_Policy",
+  "v": [
+   0,
+   0,
+   6,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Tool_Filter_Policy",
+  "v": [
+   0,
+   5,
+   5,
+   7,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Tool_Approval_Policy",
+  "v": [
+   0,
+   9,
+   4,
+   2,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Server_Initialization_Instructions",
+  "v": [
+   1,
+   3,
+   7,
+   1,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "Codex_STDIO_MCP_Server",
+  "v": [
+   2,
+   0,
+   4,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Resource_List_Tool",
+  "v": [
+   0,
+   0,
+   2,
+   8,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Resource_Template_List_Tool",
+  "v": [
+   0,
+   0,
+   2,
+   7,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Resource_Read_Tool",
+  "v": [
+   0,
+   0,
+   1,
+   8,
+   7
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "Deferred_Tool_Metadata_Catalog",
+  "v": [
+   0,
+   0,
+   6,
+   9,
+   3
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "MCP_Tool_Namespace_Projection",
+  "v": [
+   1,
+   0,
+   7,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "Codex_Apps_MCP_Tool_Namespace",
+  "v": [
+   1,
+   0,
+   3,
+   10,
+   2
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "Node_REPL_MCP_Tool_Namespace",
+  "v": [
+   3,
+   0,
+   3,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I7-mcp-and-tool-loading.md",
+  "name": "Local_STDIO_MCP_Registration",
+  "v": [
+   1,
+   0,
+   3,
+   8,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Local_Rollout_JSONL_Store",
+  "v": [
+   0,
+   0,
+   2,
+   9,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Rollout_Record_Envelope",
+  "v": [
+   0,
+   0,
+   3,
+   7,
+   3
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Session_Metadata_Record",
+  "v": [
+   0,
+   0,
+   2,
+   7,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Turn_Context_Record",
+  "v": [
+   0,
+   2,
+   4,
+   7,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Response_Item_Record",
+  "v": [
+   0,
+   0,
+   3,
+   8,
+   6
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "World_State_Record",
+  "v": [
+   0,
+   0,
+   2,
+   7,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Archived_Rollout_Store",
+  "v": [
+   0,
+   0,
+   3,
+   8,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Session_Name_Index",
+  "v": [
+   0,
+   0,
+   1,
+   7,
+   4
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Thread_Writer_Lock",
+  "v": [
+   0,
+   0,
+   6,
+   4,
+   0
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Compacted_Rollout_Record",
+  "v": [
+   0,
+   0,
+   8,
+   5,
+   7
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Thread_Catalog_Table",
+  "v": [
+   0,
+   0,
+   3,
+   9,
+   6
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Project_Catalog_Tables",
+  "v": [
+   0,
+   0,
+   3,
+   8,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Thread_History_Projection_Cursor",
+  "v": [
+   0,
+   0,
+   7,
+   6,
+   2
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Thread_Turn_Projection",
+  "v": [
+   0,
+   0,
+   5,
+   8,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_turn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Thread_Item_Projection",
+  "v": [
+   0,
+   0,
+   5,
+   8,
+   6
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Stage1_Thread_Memory",
+  "v": [
+   0,
+   0,
+   4,
+   7,
+   9
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Memory_Extraction_Job_State",
+  "v": [
+   0,
+   0,
+   8,
+   5,
+   3
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Desktop_Local_Thread_Catalog",
+  "v": [
+   0,
+   0,
+   5,
+   9,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Desktop_Thread_Timeline_Ledger",
+  "v": [
+   0,
+   0,
+   6,
+   8,
+   6
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Desktop_Project_Assignment_State",
+  "v": [
+   0,
+   0,
+   4,
+   8,
+   5
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Interactive_Session_Resume",
+  "v": [
+   1,
+   0,
+   7,
+   8,
+   6
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Noninteractive_Session_Resume",
+  "v": [
+   2,
+   0,
+   7,
+   8,
+   6
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Interactive_Session_Fork",
+  "v": [
+   1,
+   0,
+   8,
+   8,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Session_Archive_Command",
+  "v": [
+   0,
+   0,
+   5,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Session_Unarchive_Command",
+  "v": [
+   0,
+   0,
+   5,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Session_Delete_Command",
+  "v": [
+   0,
+   2,
+   5,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Ephemeral_Execution_Mode",
+  "v": [
+   0,
+   0,
+   6,
+   7,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Rollout_Migration_Inspector",
+  "v": [
+   1,
+   0,
+   6,
+   7,
+   4
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_List_Tool",
+  "v": [
+   0,
+   0,
+   3,
+   9,
+   5
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Archived_Task_List_Tool",
+  "v": [
+   0,
+   0,
+   3,
+   8,
+   5
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_History_Read_Tool",
+  "v": [
+   0,
+   0,
+   4,
+   9,
+   8
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_Archive_Toggle_Tool",
+  "v": [
+   0,
+   0,
+   5,
+   8,
+   2
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_Fork_Tool",
+  "v": [
+   1,
+   0,
+   9,
+   8,
+   6
+  ],
+  "conf": "documented",
+  "rent": "every_spawn"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_Pin_Tool",
+  "v": [
+   0,
+   0,
+   3,
+   6,
+   1
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I8-session-state-and-memory.md",
+  "name": "Task_Title_Tool",
+  "v": [
+   0,
+   0,
+   2,
+   5,
+   3
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Web_Search_Query",
+  "v": [
+   1,
+   0,
+   1,
+   8,
+   6
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Web_Page_Open",
+  "v": [
+   1,
+   0,
+   1,
+   8,
+   5
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Web_Page_Find",
+  "v": [
+   1,
+   0,
+   3,
+   3,
+   4
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Web_Link_Click",
+  "v": [
+   1,
+   0,
+   2,
+   7,
+   4
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Pdf_Page_Screenshot",
+  "v": [
+   2,
+   0,
+   1,
+   6,
+   2
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Finance_Market_Lookup",
+  "v": [
+   1,
+   0,
+   0,
+   7,
+   6
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Weather_Forecast_Lookup",
+  "v": [
+   1,
+   0,
+   0,
+   7,
+   6
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Sports_Standings_Lookup",
+  "v": [
+   1,
+   0,
+   0,
+   7,
+   6
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Utc_Offset_Time_Lookup",
+  "v": [
+   1,
+   0,
+   0,
+   4,
+   4
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "In_App_Browser_Selector",
+  "v": [
+   2,
+   2,
+   4,
+   9,
+   1
+  ],
+  "conf": "observed",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_User_Tab_Claiming",
+  "v": [
+   2,
+   7,
+   3,
+   9,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Playwright_DOM_Inspection",
+  "v": [
+   6,
+   0,
+   4,
+   8,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Dom_CUA_Control",
+  "v": [
+   7,
+   3,
+   5,
+   8,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Coordinate_CUA_Control",
+  "v": [
+   7,
+   3,
+   3,
+   8,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Tab_Screenshot",
+  "v": [
+   3,
+   1,
+   2,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Temporary_Tab_Lifecycle",
+  "v": [
+   2,
+   4,
+   6,
+   5,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Page_Content_Export",
+  "v": [
+   5,
+   1,
+   2,
+   8,
+   5
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Browser_Console_Log_Read",
+  "v": [
+   4,
+   0,
+   4,
+   7,
+   4
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Chrome_Browser_Family_Selector",
+  "v": [
+   2,
+   3,
+   5,
+   9,
+   0
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Chrome_User_Session_Reach",
+  "v": [
+   3,
+   7,
+   4,
+   9,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Windows_Computer_Use",
+  "v": [
+   8,
+   4,
+   3,
+   9,
+   1
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Occluded_Window_Capture",
+  "v": [
+   4,
+   1,
+   2,
+   8,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Local_Web_App_Browser_Testing",
+  "v": [
+   6,
+   0,
+   7,
+   7,
+   2
+  ],
+  "conf": "documented",
+  "rent": "every_matching_call"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Delegated_Session_Public_Network_Reach",
+  "v": [
+   0,
+   2,
+   0,
+   9,
+   3
+  ],
+  "conf": "observed",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Agent_Internet_Access_Mode",
+  "v": [
+   0,
+   9,
+   2,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Internet_Domain_Allowlist",
+  "v": [
+   0,
+   8,
+   3,
+   4,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ },
+ {
+  "file": "I9-web-and-browser.md",
+  "name": "Internet_HTTP_Method_Restriction",
+  "v": [
+   0,
+   8,
+   3,
+   3,
+   0
+  ],
+  "conf": "documented",
+  "rent": "none"
+ }
+]

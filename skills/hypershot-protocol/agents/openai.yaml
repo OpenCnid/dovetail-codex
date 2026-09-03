@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hypershot Protocol"
+  short_description: "Prime output structure without content leakage"
+  default_prompt: "Use $hypershot-protocol to turn this example into a content-neutral structural frame."
+policy:
+  allow_implicit_invocation: true

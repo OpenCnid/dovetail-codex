@@ -1,0 +1,18 @@
+{
+  "Approval_Policy": {"file": "I2-execution-and-sandbox.md", "v": [0, 10, 6, 0, 0], "conf": "observed", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md", "I6-settings-permissions-hooks.md"]},
+  "Permission_Profile_Legacy_Exclusion": {"file": "I6-settings-permissions-hooks.md", "v": [0, 8, 7, 0, 0], "conf": "documented", "rent": "none", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "Hook_Source_Layering": {"file": "I6-settings-permissions-hooks.md", "v": [2, 4, 8, 5, 0], "conf": "documented", "rent": "every_turn", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "Hook_Matcher_Filter": {"file": "I6-settings-permissions-hooks.md", "v": [0, 2, 9, 0, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "Hook_Command_Handler": {"file": "I6-settings-permissions-hooks.md", "v": [4, 4, 7, 7, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "PreToolUse_Control_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [1, 10, 9, 0, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "PermissionRequest_Decision_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [0, 10, 8, 0, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "PostToolUse_Feedback_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [1, 5, 8, 0, 2], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "SessionStart_Context_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [1, 3, 6, 1, 8], "conf": "documented", "rent": "every_turn", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "PreCompact_Gate_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [0, 4, 9, 0, 1], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "PostCompact_Gate_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [0, 4, 9, 0, 1], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "Stop_Continuation_Hook": {"file": "I6-settings-permissions-hooks.md", "v": [1, 7, 10, 0, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "Managed_Permission_Profile_Allowlist": {"file": "I6-settings-permissions-hooks.md", "v": [0, 10, 3, 0, 0], "conf": "documented", "rent": "every_turn", "also_in": ["D2-hooks-and-security-docs.md"]},
+  "SSH_Remote_Project_Execution": {"file": "D3-subagents-and-teams-docs.md", "v": [3, 2, 4, 10, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D5-mcp-and-integrations-docs.md"]},
+  "Local_Skill_Discovery_Scopes": {"file": "I4-skills-system.md", "v": [5, 0, 4, 9, 0], "conf": "documented", "rent": "none", "also_in": ["D4-skills-commands-memory-plugins-docs.md"]},
+  "Exec_JSONL_Event_Output": {"file": "I2-execution-and-sandbox.md", "v": [1, 0, 7, 5, 0], "conf": "documented", "rent": "every_matching_call", "also_in": ["D6-agent-sdk-docs.md"]}
+}

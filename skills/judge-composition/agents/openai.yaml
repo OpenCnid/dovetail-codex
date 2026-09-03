@@ -1,0 +1,6 @@
+interface:
+  display_name: "Judge Composition"
+  short_description: "Build auditable evidence-based judges"
+  default_prompt: "Use $judge-composition to design a rubric and judge this artifact."
+policy:
+  allow_implicit_invocation: true

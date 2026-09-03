@@ -1,0 +1,38 @@
+{
+  "name": "dovetail-codex",
+  "version": "0.4.1",
+  "description": "Composable prompt, delegation, evaluation, steering, and handoff skills for Codex.",
+  "author": {
+    "name": "OpenCnid Labs",
+    "url": "https://github.com/OpenCnid"
+  },
+  "homepage": "https://github.com/OpenCnid/dovetail-codex",
+  "repository": "https://github.com/OpenCnid/dovetail-codex",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "codex",
+    "skills",
+    "prompting",
+    "delegation",
+    "evaluation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Dovetail for Codex",
+    "shortDescription": "Composable skills for reliable Codex workflows",
+    "longDescription": "Eight Codex-native skills for prompt design, delegated work, evaluation, self-play, skill authoring, steering, and durable session handoff.",
+    "developerName": "OpenCnid Labs",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/OpenCnid/dovetail-codex",
+    "defaultPrompt": [
+      "Use Dovetail to improve this prompt or workflow.",
+      "Compose agents to investigate this task safely.",
+      "Evaluate this artifact with a clean-room judge."
+    ],
+    "brandColor": "#6D5EF5"
+  }
+}

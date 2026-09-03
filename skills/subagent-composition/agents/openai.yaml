@@ -1,0 +1,6 @@
+interface:
+  display_name: "Subagent Composition"
+  short_description: "Coordinate bounded delegated Codex work"
+  default_prompt: "Use $subagent-composition to partition and coordinate this task safely."
+policy:
+  allow_implicit_invocation: true

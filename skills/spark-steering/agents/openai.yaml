@@ -1,0 +1,6 @@
+interface:
+  display_name: "Spark Steering"
+  short_description: "Find the cheapest native control surface"
+  default_prompt: "Use $spark-steering to diagnose why this workflow is stuck or drifting."
+policy:
+  allow_implicit_invocation: false
