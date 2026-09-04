@@ -50,6 +50,15 @@ Use the smallest set that spans the risk:
 Do not put the expected finding into the case prompt. Ground may include input,
 provenance, paths, and the scoring contract—only what lets the evaluator look.
 
+Create synthetic or mock data wherever testing or visualization needs inputs
+that are unavailable, sensitive, or too narrow to span the property. Shape it to
+cover distinct viewpoints, roles, distributions, edge conditions, and plausible
+counterexamples without encoding the preferred verdict; comparative visuals
+should make those differences legible. Label invented data clearly, preserve
+its assumptions and seed or fixture when repeatability matters, keep it separate
+from observed data, and treat its results as evidence about candidate behavior
+rather than claims about reality.
+
 ### 3. Run independent trials
 
 For interactive evaluation, spawn bounded evaluators with `fork_turns: "none"`.
